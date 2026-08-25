@@ -1,0 +1,6 @@
+{
+  "name": "REHBR - Islamic Psychology & Emotional Wellness",
+  "description": "REHBR is an Islamic counseling, psychological support, and character transformation initiative rooted in the Qur'an and authentic Sunnah, bridging spiritual wisdom with practical mental health frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
