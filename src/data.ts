@@ -10,101 +10,6 @@ import calmMaritalHarmonyImg from './assets/images/calm_marital_harmony_17876714
 import mindfulParentingSanctuaryImg from './assets/images/mindful_parenting_sanctuary_1787671439599.jpg';
 import sereneCalmFeatherImg from './assets/images/serene_calm_feather_1787671619622.jpg';
 
-// Authentic Brand Photography Assets
-import realBrand1Img from './assets/images/real_brand_1.jpg';
-import realBrand2Img from './assets/images/real_brand_2.jpg';
-import realBrand3Img from './assets/images/real_brand_3.jpg';
-import realBrand4Img from './assets/images/real_brand_4.jpg';
-import realBrand5Img from './assets/images/real_brand_5.jpg';
-import realBrand6Img from './assets/images/real_brand_6.jpg';
-import realBrand7Img from './assets/images/real_brand_7.jpg';
-import realBrand8Img from './assets/images/real_brand_8.jpg';
-import realBrand9Img from './assets/images/real_brand_9.jpg';
-import realBrand10Img from './assets/images/real_brand_10.jpg';
-
-export const REAL_BRAND_IMAGES = [
-  {
-    id: 'brand-1',
-    src: realBrand1Img,
-    title: 'Mindful Reflection & Sacred Balance',
-    category: "Mindful Reflection",
-    description: 'A moment of stillness grounding thoughts in divine remembrance, emotional patience, and holistic self-reflection.',
-    tag: '#RehbrReflections'
-  },
-  {
-    id: 'brand-2',
-    src: realBrand2Img,
-    title: 'The Path of Tazkiyah & Inner Purification',
-    category: 'Spiritual Growth',
-    description: 'Exploring the heart’s states through authentic Islamic psychology frameworks and gentle accountability.',
-    tag: '#Tazkiyah'
-  },
-  {
-    id: 'brand-3',
-    src: realBrand3Img,
-    title: 'Insaan-e-Kamil Cohort & Community',
-    category: 'Workshops',
-    description: 'Transformational cohort discussions on character reform, emotional mastery, and intentional daily routines.',
-    tag: '#InsaanEKamil'
-  },
-  {
-    id: 'brand-4',
-    src: realBrand4Img,
-    title: 'Qur’anic Anchors in Everyday Living',
-    category: "Spiritual Guidance",
-    description: 'Bridging timeless spiritual principles with modern psychological clarity and practical mindfulness.',
-    tag: '#QuranicWisdom'
-  },
-  {
-    id: 'brand-5',
-    src: realBrand5Img,
-    title: 'Prophetic Parenting & Emotional Connection',
-    category: 'Family & Home',
-    description: 'Guiding parents to nurture Sunnah values with deep emotional regulation, gentleness, and mutual respect.',
-    tag: '#MindfulParenting'
-  },
-  {
-    id: 'brand-6',
-    src: realBrand6Img,
-    title: 'Overcoming Inner Friction & Overthinking',
-    category: 'Mental Health',
-    description: 'Practical cognitive reframing rooted in Tawakkul to disarm anxiety and cultivate deep inner peace (Sakeenah).',
-    tag: '#Sakeenah'
-  },
-  {
-    id: 'brand-7',
-    src: realBrand7Img,
-    title: 'Cultivating Mawaddah (Love) & Rahmah (Mercy)',
-    category: 'Marital Care',
-    description: 'Fostering empathetic listening and authentic Islamic adab to heal relationships and restore peace in the home.',
-    tag: '#Mawaddah'
-  },
-  {
-    id: 'brand-8',
-    src: realBrand8Img,
-    title: 'Youth Mentorship & Faith Resilience',
-    category: 'Youth Growth',
-    description: 'Equipping young Muslims with confidence, emotional resilience, and grounded faith identity.',
-    tag: '#FaithIdentity'
-  },
-  {
-    id: 'brand-9',
-    src: realBrand9Img,
-    title: 'Daily Muhasabah: Small Consistent Steps',
-    category: "Self-Audit & Habits",
-    description: 'Self-audit worksheets and daily journaling prompts that transform fleeting thoughts into enduring habits.',
-    tag: '#Muhasabah'
-  },
-  {
-    id: 'brand-10',
-    src: realBrand10Img,
-    title: 'The Journey of Returning to Allah',
-    category: 'Spiritual Renewal',
-    description: 'Honoring every step of returning to Allah with sincere repentance, hope, and unwavering reliance on His Mercy.',
-    tag: '#Tawakkul'
-  }
-];
-
 export const IMAGES = {
   hero: sereneHeroSanctuaryImg,
   office: sereneHeroSanctuaryImg,
@@ -130,16 +35,6 @@ export const IMAGES = {
   reflection5: mindfulGrowthLeafImg,
   aboutRehbr: sereneReflectionDeskImg,
   compassionatePromise: calmCounselingNookImg,
-  brand1: realBrand1Img,
-  brand2: realBrand2Img,
-  brand3: realBrand3Img,
-  brand4: realBrand4Img,
-  brand5: realBrand5Img,
-  brand6: realBrand6Img,
-  brand7: realBrand7Img,
-  brand8: realBrand8Img,
-  brand9: realBrand9Img,
-  brand10: realBrand10Img,
 };
 
 export const REHBR_INFO = {

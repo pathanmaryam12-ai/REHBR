@@ -564,7 +564,7 @@ export default function HeroSection({ onNavigate, onOpenWhatsApp }: HeroSectionP
         <TestimonialSlider />
       </section>
 
-      {/* 7. Official Instagram Feed Section */}
+      {/* 7. Official Instagram Call to Action */}
       <InstagramFeed />
     </div>
   );
